@@ -54,7 +54,7 @@ Some of the problems I have solved:
 ## 👨‍💻 Author
 
 **Asres Muntaye**  
-Pre-Engineering Student | Python Learner | Future AI Engineer 🚀
+Engineering Student | Python Learner | Future AI Engineer 🚀
 
 ---
 
